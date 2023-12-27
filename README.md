@@ -26,6 +26,12 @@ Free:
 Need Student License:
 - https://education.altium.com/
 
+## Video Editing
+- https://www.blackmagicdesign.com/products/davinciresolve (free and powerful)
+
+## Music Composition
+- https://musescore.org/en 
+
 ## Coding:
 - https://code.visualstudio.com/
 - https://www.arduino.cc/en/software (for arduino)
@@ -33,7 +39,7 @@ Need Student License:
 - https://colab.research.google.com/ (browser, only python)
 - https://replit.com/ (browser)
 - https://www.jetbrains.com/pycharm/ (only python)
-
+  
 ### AI and Machine Learning
 - https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
 - https://www.tensorflow.org/learn
